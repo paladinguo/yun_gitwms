@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Git.WMS.Web",
+    "\\Git.WMS.Web\\Git.WMS.API\\Configs\\Data",
+    "\\Git.WMS.Web\\Git.WMS.Sdk",
+    "\\Git.WMS.Web\\Git.WMS.Sdk\\bin\\Release",
+    "\\Git.WMS.Web\\Git.WMS.Sdk\\obj\\Debug",
+    "\\Git.WMS.Web\\Git.WMS.Web\\Configs",
+    "\\Git.WMS.Web\\Git.WMS.Web\\Configs\\SEO",
+    "\\Git.WMS.Web\\Git.WMS.Web\\Configs\\Setting",
+    "\\Lib"
+  ],
+  "SelectedNode": "\\Git.WMS.Web\\Git.WMS.Sdk",
+  "PreviewInSolutionExplorer": false
+}
